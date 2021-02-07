@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "task": "Learn Oclif 1",
+      "id": 1,
+      "done": false
+    }
+  ]
+}
